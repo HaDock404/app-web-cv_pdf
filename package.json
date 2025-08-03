@@ -1,7 +1,7 @@
 {
   "name": "app-web-cv_pdf",
   "version": "0.1.0",
-  "homepage": "https://hadock404.github.io/app-web-cv_pdf",
+  "homepage": "https://cv.gael-delescluse.com",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",

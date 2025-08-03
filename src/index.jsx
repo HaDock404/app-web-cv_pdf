@@ -6,8 +6,8 @@ import './styles/normalize.css'
 import GlobalStyle from './styles/createGlobalStyle.jsx'
 import ScrollToTop from "./styles/ScrollToTop";
 
-//import Home from "./pages/Homepage.jsx";
-import Home from "./pages/Test.jsx";
+import Home from "./pages/Homepage.jsx";
+//import Home from "./pages/Test.jsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
