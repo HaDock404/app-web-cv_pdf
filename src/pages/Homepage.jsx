@@ -19,6 +19,7 @@ const HomePage = () => {
         <a href="/cv.pdf" download className="download-btn">
             📥 Télécharger
         </a>
+        
         <div className="pdf-viewer scroll">
             <Document
             file={`${process.env.PUBLIC_URL}/cv.pdf`}
