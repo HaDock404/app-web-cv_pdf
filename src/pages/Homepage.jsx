@@ -21,7 +21,7 @@ const HomePage = () => {
         </a>
         <div className="pdf-viewer scroll">
             <Document
-            file="/cv.pdf"
+            file={`${process.env.PUBLIC_URL}/cv.pdf`}
             onLoadSuccess={onDocumentLoadSuccess}
             onLoadError={console.error}
             >
