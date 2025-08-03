@@ -2,6 +2,7 @@
   text-align: center;
   padding: 2rem;
   background-color: #343434;
+  position: relative;
 }
 
 .pdf-viewer {
@@ -24,6 +25,10 @@
   color: white;
   text-decoration: none;
   border-radius: 5px;
+  position: fixed;
+  left: calc(50% + 150px);
+  top: 22px;
+  z-index: 10;
 }
 .download-btn:hover {
   background-color: #0056b3;
