@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/app-web-cv_pdf/static/css/main.21c01ffa.css",
+    "main.js": "/app-web-cv_pdf/static/js/main.e70d52fa.js",
+    "static/media/pdf.worker.min.mjs": "/app-web-cv_pdf/static/media/pdf.worker.min.2b548340be18274ba1cf.mjs",
+    "index.html": "/app-web-cv_pdf/index.html",
+    "main.21c01ffa.css.map": "/app-web-cv_pdf/static/css/main.21c01ffa.css.map",
+    "main.e70d52fa.js.map": "/app-web-cv_pdf/static/js/main.e70d52fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c01ffa.css",
+    "static/js/main.e70d52fa.js"
+  ]
+}
