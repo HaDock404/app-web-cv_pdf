@@ -36,7 +36,7 @@ const HomePage = () => {
       </a>
       <div className="pdf-viewer scroll" ref={containerRef}>
         <Document
-          file={`${process.env.PUBLIC_URL}/cv.pdf`}
+          file={`${process.env.PUBLIC_URL}/Data_Scientist_Gael_Delescluse.pdf`}
           onLoadSuccess={onDocumentLoadSuccess}
           onLoadError={console.error}
         >
