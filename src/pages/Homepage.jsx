@@ -31,7 +31,7 @@ const HomePage = () => {
 
   return (
     <div className="pdf-container">
-      <a href="/cv.pdf" download className="download-btn">
+      <a href="/Data_Scientist_Gael_Delescluse.pdf" download className="download-btn">
         📥 Télécharger
       </a>
       <div className="pdf-viewer scroll" ref={containerRef}>
