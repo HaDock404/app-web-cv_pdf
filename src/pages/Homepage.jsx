@@ -31,6 +31,11 @@ const HomePage = () => {
 
   return (
     <div className="pdf-container">
+      <div className='homepage_links'>
+        <a className='homepage_button' href="https://www.gael-delescluse.com/" target='blank'>Site personnel</a>
+        <a className='homepage_button' href="https://www.linkedin.com/in/gael-d-044b34304" target='blank'>LinkedIn</a>
+        <a className='homepage_button' href="https://github.com/HaDock404" target='blank'>Github</a>
+      </div>
       <a href="/Data_Scientist_Gael_Delescluse.pdf" download className="download-btn">
         📥 Télécharger
       </a>
